@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BatMobileTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="search_stop" translatable="false">搜尋站點</string>
+    <string name="county_header">縣市</string>
+    <string name="section_header">區域</string>
+    <string name="stop_name_header">站點名稱</string>
+    <string name="taipei_county">台北市</string>
+    <string name="options_manual">使用說明</string>
+    <string name="options_charge">收費方式</string>
+    <string name="options_stopinfo">站點資訊</string>
+    <string name="options_news">最新消息</string>
+    <string name="options_activity">活動專區</string>
+    <string name="options_login">登入</string>
+</resources>
